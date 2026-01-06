@@ -1,0 +1,161 @@
+[33mcommit 7b5163a9b5814867b91296c8aeee893783c2845f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Marc Jayce <Cenidoza.marcjayce0113@gmail.com>
+Date:   Mon Mar 24 16:44:16 2025 +0800
+
+    updated feature in candidates page
+
+[33mcommit 6d6c6b4d3de1a2ebf3a44f4113146e084d501977[m
+Merge: 52614ba a5073f3
+Author: Sean E. <sembornas@mymail.mapua.edu.ph>
+Date:   Mon Mar 24 13:29:45 2025 +0800
+
+    Merge branch 'main' of https://github.com/chimesconsultingph/ams
+
+[33mcommit 52614bafa20f70247d27e9cab12d78fb9dbe5ad6[m
+Author: Sean E. <sembornas@mymail.mapua.edu.ph>
+Date:   Mon Mar 24 13:27:10 2025 +0800
+
+    Added Job Listings Page and Job Position Management Pages
+
+[33mcommit a5073f3734de35eff546e8c4c449993342cdc8ed[m
+Author: Marc Jayce <Cenidoza.marcjayce0113@gmail.com>
+Date:   Fri Mar 21 16:21:16 2025 +0800
+
+    Update candidate page
+
+[33mcommit 7008ce0bc42b885cdc55ad6b475f319ce08c6d4d[m
+Author: Marc Jayce <Cenidoza.marcjayce0113@gmail.com>
+Date:   Thu Mar 20 23:21:58 2025 +0800
+
+    updated candidate-view
+
+[33mcommit bbfeec603f6e8091956d2f8924aad2cc19f75218[m
+Author: Marc Jayce <Cenidoza.marcjayce0113@gmail.com>
+Date:   Thu Mar 20 16:51:41 2025 +0800
+
+    added view-page
+
+[33mcommit a7f580cca2045ccfd95c64a0d2bfe99d006ce9fa[m
+Author: Sean E. <sembornas@mymail.mapua.edu.ph>
+Date:   Thu Mar 20 12:07:54 2025 +0800
+
+    Added Job Listings Page and Modified Candidate View
+
+[33mcommit fd2ee32cf52a22d696d9b5125d4c6d28e1141ae5[m
+Merge: 4fea39b 07d8d08
+Author: Sean E. <sembornas@mymail.mapua.edu.ph>
+Date:   Thu Mar 20 09:54:42 2025 +0800
+
+    Merge branch 'main' of https://github.com/chimesconsultingph/ams
+    Intern Candidate Controller
+
+[33mcommit 4fea39b63ce8b3e75f56e94dde0da9d2adead270[m
+Author: Sean E. <sembornas@mymail.mapua.edu.ph>
+Date:   Thu Mar 20 09:54:24 2025 +0800
+
+    Finished Create Job Position feature
+
+[33mcommit 07d8d08402b7bb0bfa178fc0bd7fedc70257af5f[m
+Author: Marc Jayce <Cenidoza.marcjayce0113@gmail.com>
+Date:   Wed Mar 19 17:10:36 2025 +0800
+
+    updated back-end candidate page
+
+[33mcommit dab6764784d02301ae02808f07dbc1dedb0aba1e[m
+Merge: 6b9e567 3449fe0
+Author: Marc Jayce <Cenidoza.marcjayce0113@gmail.com>
+Date:   Wed Mar 19 14:30:02 2025 +0800
+
+    Merge branch 'main' of github.com:chimesconsultingph/ams
+
+[33mcommit 6b9e567ae941d3f9ab5590ae52725372c83f8ed5[m
+Author: Marc Jayce <Cenidoza.marcjayce0113@gmail.com>
+Date:   Wed Mar 19 14:18:25 2025 +0800
+
+    update candaidate page
+
+[33mcommit 3449fe0a12136fa1d307bea921933083b152f96a[m
+Author: Sean E. <sembornas@mymail.mapua.edu.ph>
+Date:   Wed Mar 19 14:06:06 2025 +0800
+
+    Added STATUS column to Applicants Table
+
+[33mcommit 00ab56ec4a4dc0208214f405fcd0e30fd7e6a62e[m
+Author: Sean E. <sembornas@mymail.mapua.edu.ph>
+Date:   Wed Mar 19 13:58:06 2025 +0800
+
+    Fixed Internship Application Form Backend
+
+[33mcommit bf5ff4fe1609dca830d016ff57f2ae81fbe81e82[m
+Author: Marc Jayce <Cenidoza.marcjayce0113@gmail.com>
+Date:   Mon Mar 17 17:29:09 2025 +0800
+
+    fixed candidate page
+
+[33mcommit 64d3d12189c786a9edc94050488d0588a8c5ffc3[m
+Author: Sean E. <sembornas@mymail.mapua.edu.ph>
+Date:   Mon Mar 17 15:32:17 2025 +0800
+
+    Added Welcome Page and Backend for Intern Application Form
+
+[33mcommit 25835aef8bf2cf5e3b8767134cfa7dbe05483468[m
+Author: Sean E. <sembornas@mymail.mapua.edu.ph>
+Date:   Mon Mar 17 10:06:32 2025 +0800
+
+    Added Intern Application Form
+
+[33mcommit 0f546a99ee40e40a58500b134381959718a9c969[m
+Merge: 2f010e1 91a738d
+Author: Sean E. <sembornas@mymail.mapua.edu.ph>
+Date:   Fri Mar 14 20:20:28 2025 +0800
+
+    Added Application Forms & Fixed Merge Issues
+
+[33mcommit 2f010e1d10ba8a09df669d73d40543ea424e9ab4[m
+Author: Sean E. <sembornas@mymail.mapua.edu.ph>
+Date:   Fri Mar 14 20:18:28 2025 +0800
+
+    Added Intern & Employee Application Forms
+
+[33mcommit 91a738d40d112e9ae16484aa0091135e478f255e[m
+Author: Marc Jayce <Cenidoza.marcjayce0113@gmail.com>
+Date:   Fri Mar 14 17:12:36 2025 +0800
+
+    updated sidebar, added candidates page
+
+[33mcommit d704432aa50edd2df6cb5387d564bd744c9c2c9c[m
+Author: Marc Jayce <Cenidoza.marcjayce0113@gmail.com>
+Date:   Fri Mar 14 14:57:42 2025 +0800
+
+    Updated sidebar, Fixed Routing
+
+[33mcommit ee8e4bc4c15a027745ba41aa79ad14cc26eeb039[m
+Author: Marc Jayce <Cenidoza.marcjayce0113@gmail.com>
+Date:   Fri Mar 14 13:52:55 2025 +0800
+
+    Added header, Configured Searchbar
+
+[33mcommit d3a3dc30936bd13e21d9a672b7f05d5cd762bc5b[m
+Merge: 8a54e96 0e14a79
+Author: Marc Jayce <Cenidoza.marcjayce0113@gmail.com>
+Date:   Fri Mar 14 12:02:42 2025 +0800
+
+    Merge branch 'main' of github.com:chimesconsultingph/ams
+
+[33mcommit 8a54e96bf8b62c6264ddfeecdfe869a15f6e48b5[m
+Author: Marc Jayce <Cenidoza.marcjayce0113@gmail.com>
+Date:   Fri Mar 14 12:01:58 2025 +0800
+
+    Added sidebar, Dashboard overview
+
+[33mcommit 0e14a7954e32bfc08944844409df7dcf24ff42be[m
+Author: Sean E. <sembornas@mymail.mapua.edu.ph>
+Date:   Fri Mar 14 10:02:23 2025 +0800
+
+    Edited environment file.
+
+[33mcommit c432f84e3ccf54e4ed81d44a0f0d7665a19c39f5[m
+Author: Marc Jayce <Cenidoza.marcjayce0113@gmail.com>
+Date:   Fri Mar 14 09:52:49 2025 +0800
+
+    Initial commit: Add Laravel boilerplate
